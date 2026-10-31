@@ -1,0 +1,7 @@
+name: bptt
+optimizer: adam
+lr: 1.0e-3
+weight_decay: 0.0
+grad_clip: 5.0
+epochs: 20
+scheduler: cosine

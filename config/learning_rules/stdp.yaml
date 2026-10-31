@@ -1,0 +1,10 @@
+name: stdp
+a_plus: 0.01
+a_minus: 0.0105
+stdp_lr: 3.0e-2
+trace_decay: 0.8
+k_winners: 0.05
+stdp_epochs: 1
+lr: 1.0e-3
+weight_clip: 1.0
+epochs: 21

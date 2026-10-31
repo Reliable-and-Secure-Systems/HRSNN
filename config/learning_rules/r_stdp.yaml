@@ -1,0 +1,7 @@
+name: r_stdp
+a_plus: 0.01
+a_minus: 0.01
+lr: 1.0e-3
+weight_clip: 1.0
+baseline: 0.5
+epochs: 20

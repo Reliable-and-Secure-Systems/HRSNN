@@ -1,0 +1,15 @@
+torch
+torchvision
+
+snntorch
+
+tonic
+numpy
+scipy
+
+matplotlib
+seaborn
+scikit-learn
+
+jupyter
+ipywidgets

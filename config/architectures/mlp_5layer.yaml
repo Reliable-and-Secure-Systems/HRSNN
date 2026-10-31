@@ -1,0 +1,7 @@
+name: mlp
+hidden_dims: [1024, 512, 256, 128]
+neuron_type: lif
+beta: 0.9
+threshold: 1.0
+dropout: 0.2
+surrogate_slope: 25.0

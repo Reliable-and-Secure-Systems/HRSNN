@@ -1,0 +1,5 @@
+name: mnist
+data_dir: data/
+batch_size: 256
+val_split: 0.1
+num_workers: 0

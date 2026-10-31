@@ -1,0 +1,4 @@
+name: phase
+time_steps: 20
+n_periods: 4
+threshold: 0.0

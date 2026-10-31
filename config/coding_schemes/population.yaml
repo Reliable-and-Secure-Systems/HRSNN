@@ -1,0 +1,4 @@
+name: population
+time_steps: 20
+n_gaussians: 10
+sigma: 0.1111
